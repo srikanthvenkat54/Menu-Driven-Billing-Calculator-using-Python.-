@@ -1,0 +1,7 @@
+price1 = float(input("Enter price of item 1: ")) 
+qty1 = int(input("Enter quantity of item 1: "))   
+price2 = float(input("Enter price of item 2: "))
+qty2 = int(input("Enter quantity of item 2: "))   
+amount1 = price1 * qty1 amount2 = 
+price2 * qty2 total = amount1 + 
+amount2 print("Total Bill Amount =", total)    
