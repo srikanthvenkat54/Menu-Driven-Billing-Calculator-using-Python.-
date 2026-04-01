@@ -1,0 +1,51 @@
+Project Overview
+
+This project is a console-based billing calculator developed in Python.
+It allows users to perform basic billing operations through a menu-driven interface.
+The application continuously interacts with the user, updates the total bill dynamically, and provides an easy way to simulate real-world billing systems.
+
+Features
+
+Menu-driven user interface
+Add item cost to total bill
+Apply discount to total bill
+Multiply total amount (for quantity calculation)
+Divide total amount (for splitting bill)
+View updated total bill anytime
+Continuous execution using loops
+Exit option to terminate program
+
+Problem Statement
+Design and implement a menu-driven billing calculator that allows users to perform arithmetic operations and manage a total bill amount efficiently.
+
+Objective
+Perform basic billing calculations
+Implement menu-driven programming
+Understand input/output operations
+Apply loops and conditional statements
+
+Tools Used
+Python 3
+VS Code / IDLE
+
+Description
+This project simulates a simple billing system where the user can:
+
+Add item costs
+Apply discounts
+Perform multiplication/division operations
+Check total bill
+The total bill updates after every operation.
+
+Algorithm
+Initialize total bill = 0
+Display menu
+Take user input
+Perform selected operation
+Update and display total
+Repeat until exit
+
+Conclusion
+This project demonstrates the use of Python fundamentals like loops, conditions, and operators to build a simple real-world application.
+
+Repeat until exit
